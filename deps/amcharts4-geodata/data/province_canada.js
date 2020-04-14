@@ -1,0 +1,15 @@
+var am4geodata_data_province_canada = {
+  "CA-QC": "Quebec",
+  "CA-ON": "Ontario",
+  "CA-AB": "Alberta",
+  "CA-BC": "British Columbia",
+  "CA-NL": "Newfoundland and Labrador",
+  "CA-SK": "Saskatchewan",
+  "CA-MB": "Manitoba",
+  "CA-NB": "New Brunswick",
+  "CA-NS": "Nova Scotia",
+  "CA-PE": "Prince Edward Island",
+  "CA-YT": "Yukon",
+  "CA-NT": "Northwest Territories",
+  "CA-NU": "Nunavut",
+};

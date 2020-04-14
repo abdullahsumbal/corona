@@ -1,0 +1,1 @@
+var canada_total = {"numconf": 26146, "numdeaths": 823, "date": "14-04-2020"}
