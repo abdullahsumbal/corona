@@ -1,1 +1,1 @@
-var canada_total = {"numconf": 26146, "numdeaths": 823, "date": "14-04-2020"}
+var canada_total = {"numconf": 30659, "numdeaths": 1250, "date": "17-04-2020"}
